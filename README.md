@@ -21,10 +21,10 @@
 
 # Live Server URL
 
-- 
+- https://carson-loser.github.io/weather-forecaster/
 
 # Assets
 
 The following image demonstrates the web application's appearance and functionality:
 
-![](./assets/images/password-gen-SC.png
+![Currently shows a heading and a search bar and button, functionality pulls data for a city but does not display data on web page](./assets/images/weather-app.png)
